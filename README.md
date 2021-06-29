@@ -19,6 +19,9 @@ Compile the Files in the Ubuntu Windows App. Open Two Different Ubuntu Terminals
 
 # For TCP
 Access the directory containing the file
+```
+cd files
+```
 
 Compile and Run the tcpserver.cpp and tcpclient.cpp files using:
 
@@ -56,3 +59,8 @@ TCP does Flow Control and requires three packets to set up a socket connection, 
 Added Client-Server-Communication using UDP.
 
 # Screenshots of the Work
+
+**TCP**
+
+![tcp2](https://user-images.githubusercontent.com/52610977/123784588-3a33ea00-d8f5-11eb-98bd-1fe3ec281ba2.png)
+![tcp1](https://user-images.githubusercontent.com/52610977/123784652-46b84280-d8f5-11eb-94c5-6e674e6714e7.png)

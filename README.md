@@ -36,7 +36,9 @@ g++ tcpclient.cpp -o tcpclient.out
 
 # For UDP: 
 Access the directory containing the file
-
+```
+cd files
+```
 Compile and Run udpserver.cpp and udpclient.cpp using:
 
 ```
@@ -45,7 +47,7 @@ g++ udpserver.cpp -o udpserver.out
 ```
 ```
 g++ udpclient.cpp -o udpclient.out
-./udpclient.out localhost 2000
+./udpclient.out 2000
 ```
 
 
@@ -64,3 +66,9 @@ Added Client-Server-Communication using UDP.
 
 ![tcp2](https://user-images.githubusercontent.com/52610977/123784588-3a33ea00-d8f5-11eb-98bd-1fe3ec281ba2.png)
 ![tcp1](https://user-images.githubusercontent.com/52610977/123784652-46b84280-d8f5-11eb-94c5-6e674e6714e7.png)
+
+**UDP**
+
+![udp1](https://user-images.githubusercontent.com/52610977/123792897-c3035380-d8fe-11eb-9c08-e00dc98a07a5.png)
+![1](https://user-images.githubusercontent.com/52610977/123792917-c991cb00-d8fe-11eb-8c6d-29dcc5944136.png)
+

@@ -17,7 +17,7 @@ In UDP, it is not needed to accept the request for sending messages.
 # How to Run
 Compile the Files in the Ubuntu Windows App. Open Two Different Ubuntu Terminals.
 
-# For TCP
+# For TCP:
 Access the directory containing the file
 ```
 cd files
